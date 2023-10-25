@@ -1,0 +1,13 @@
+.about {
+    margin-bottom: 2rem;
+  }
+  
+  .about h2 {
+    font-size: 2rem;
+    text-align: center;
+  }
+  
+  .about p {
+    font-size: 1.6rem;
+    text-align: left;
+  }
